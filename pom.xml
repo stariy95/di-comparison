@@ -29,6 +29,7 @@
         <module>spring</module>
         <module>springboot</module>
         <module>owb</module>
+        <module>bootiquedi</module>
     </modules>
 
     <build>
